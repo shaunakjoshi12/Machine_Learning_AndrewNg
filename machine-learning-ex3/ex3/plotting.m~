@@ -1,0 +1,4 @@
+function plotting(X,y)
+    X=(X y);
+    class0=find(y==10);class1=find(y==1);class2=find(y==2);class3=find(y==3);class4=find(y==4);class5=find(y==5);class6=find(y==6);class7=find(y==7);class8
+end
